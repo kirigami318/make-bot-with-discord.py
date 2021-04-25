@@ -28,5 +28,9 @@
 - in uptime robot and make a new and put your web link
 - and done
 
+## need another command for bot?
+**[Read The Docs](https://discordpy.readthedocs.io/en/latest/ext/commands/commands.html#)**
+**[Discord API server](https://discord.gg/discord-api)**
+
 need help?
 - discord = ıɯɐɓıɹıʞ#9999
