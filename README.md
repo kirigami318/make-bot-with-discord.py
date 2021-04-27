@@ -33,4 +33,4 @@
 - **[Discord API server](https://discord.gg/discord-api)**
 
 need help?
-- discord = ıɯɐɓıɹıʞ#9999
+- discord = kirik#6666
