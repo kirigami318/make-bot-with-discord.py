@@ -16,7 +16,6 @@
 - and launch
 
 ## how to make bot keep alive?
-- Read **[This File](keepalivebot/README.md)** First!
 - u need **[replit](https://replit.com/~)** to write the code and **[uptimerobot](https://uptimerobot.com/)** to make bot keep alive
 - **[Click Me](keepalivebot/)** The Files
 - make a new python file in replit
