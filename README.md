@@ -34,4 +34,4 @@
 - **[Discord API server](https://discord.gg/discord-api)**
 
 need help?
-- discord = kirigami#5050
+- discord = kirigami#8574
