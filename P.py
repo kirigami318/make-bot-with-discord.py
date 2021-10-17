@@ -5,17 +5,16 @@ import datetime
 import time
 import os
 
-from replit import db
-from keep_alive import keep_alive
 from discord.ext import commands
 from discord.utils import get
 from random import choice
-from discord import File
 from datetime import datetime
 
 intents = discord.Intents.all()
 bot = commands.Bot(command_prefix=".", intents=intents)
 bot.remove_command('help')
+
+TOKEN=""
 
 #activity of bot
 @bot.event
@@ -344,8 +343,7 @@ async def kick_error(ctx, error):
   if isinstance(error, commands.MissingPermissions):
     await ctx.send(f'{ctx.author.mention}You Cant Do That ❌',delete_after=3)
 
-keep_alive()
-bot.run(os.getenv('TOKEN'))
+bot.run(TOKEN) 
 
 while True:
 	time.sleep(0.5)
